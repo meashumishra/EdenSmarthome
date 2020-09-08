@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="photo_image_height">150dp</dimen>
+    <integer name="photo_list_preview_columns">3</integer>
+
+    <dimen name="photos_list_spacing">10dp</dimen>
+</resources>
